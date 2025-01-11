@@ -7,7 +7,6 @@ I'm a passionate Web Developer and open-source contributor.
 - 👯 I’m looking to collaborate on **Web Development Projects**
 - 💬 Ask me about **JavaScript, PHP, Vue.js, Laravel and anything else**
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/bonisatriyo/)
-- ⚡ Fun fact: I love playing Dota 2.
 
 ## Technologies & Tools
 ![JavaScript](https://img.shields.io/badge/-JavaScript-FFFF00?style=flat-square&logo=javascript)
