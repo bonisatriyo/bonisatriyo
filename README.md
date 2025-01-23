@@ -5,7 +5,7 @@ I'm a passionate Web Developer and open-source contributor.
 - 🔭 I’m currently working on ArikaStudio Project #2
 - 🌱 I’m currently learning **Mobile Dev**
 - 👯 I’m looking to collaborate on **Web Development Projects**
-- 💬 Ask me about **JavaScript, PHP, Vue.js, Laravel and anything else**
+- 💬 Ask me about **Anything**
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/bonisatriyo/)
 
 ## Technologies & Tools
