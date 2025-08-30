@@ -18,7 +18,7 @@ Saat ini saya membangun solusi digital bersama **Arika Studio** yang fokus pada 
 ## ⚡ Keahlian Utama
 
 **Bahasa Pemrograman**
-- JavaScript • PHP • Python • Java • SQL  
+- [JavaScript](https://img.shields.io/badge/-JavaScript-FFFF00?style=flat-square&logo=javascript) • PHP • Python • Java • SQL  
 
 **Framework & Library**
 - Laravel • Vue.js • React • Bootstrap • Tailwind CSS  
